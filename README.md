@@ -1,4 +1,4 @@
-### EX NO : 01
+### EX NO : 02
 # <p align="center">Developing a Neural Network Classification Model</p>
 
 ## AIM :
